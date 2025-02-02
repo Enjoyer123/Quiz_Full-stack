@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+
+@layer base {
+  * {
+    @apply m-0 p-0 box-border;
+  }
+}
+
+@theme {
+  --color-foot-500: #FF6900;
+}
+
+
+@font-face {
+  font-family: 'Kanit', 'sans-serif';
+  src: url();
+}
+
+
+/* *{
+    outline: 1px solid red;
+} */
