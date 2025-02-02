@@ -33,6 +33,17 @@ A bookstore web application that allows users to browse and purchase books while
 ## 🌐 Live Demo & Swagger
 - 🚀 **Live Demo (Netlify)**: [Bookstore Live Demo](https://ban9din-bookstore.netlify.app/)
 - 🚀 **Live Demo (Render)**: [Bookstore_Admin Live Demo](https://ban9din-admin.netlify.app/)
+- 🚨 **Note**: The live demo may experience some delays due to the current server performance. I appreciate your understanding.
+## 🐱‍👤 User for test
+```bash
+Admin
+root@email.com
+root
+
+User
+user@email.com
+user
+```
 
 ### 📌 Swagger
 ```bash
